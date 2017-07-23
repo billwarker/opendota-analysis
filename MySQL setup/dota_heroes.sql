@@ -1,0 +1,16 @@
+CREATE TABLE dota_heroes
+(id INT NOT NULL AUTO_INCREMENT,
+name VARCHAR(255),
+localized_name VARCHAR(255),
+primary_attr VARCHAR(3),
+attack_type VARCHAR(8),
+carry TINYINT(1),
+jungler TINYINT(1),
+pusher TINYINT(1),
+nuker TINYINT(1),
+disabler TINYINT(1),
+initiator TINYINT(1),
+durable TINYINT(1),
+support TINYINT(1),
+legs INT,
+PRIMARY KEY (id));
