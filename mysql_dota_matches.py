@@ -5,7 +5,7 @@ import pymysql
 
 print('Starting...')
 
-conn = pymysql.connect(host='127.0.0.1', user='root', passwd='Greengiant90',
+conn = pymysql.connect(host='127.0.0.1', user='root', passwd='######',
 						db='mysql', charset='utf8')
 cur = conn.cursor()
 cur.execute('USE dota_stats')
