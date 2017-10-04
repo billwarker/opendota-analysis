@@ -1,5 +1,7 @@
 # Closure: A Statistical Look at my Dota 2 Career
 
+<img src="Pictures\dota_2_official_9.jpg"></img>
+
 ## Introduction
 
 ### A Brief History of DotA
