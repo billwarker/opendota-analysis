@@ -1,0 +1,114 @@
+localized_name,primary_attr,attack_type,carry,jungler,pusher,nuker,disabler,initiator,durable,support,legs
+Anti-Mage,agi,Melee,1,0,0,1,0,0,0,0,2
+Axe,str,Melee,0,1,0,0,1,1,1,0,2
+Bane,int,Ranged,0,0,0,1,1,0,1,1,4
+Bloodseeker,agi,Melee,1,1,0,1,1,1,0,0,2
+Crystal Maiden,int,Ranged,0,1,0,1,1,0,0,1,2
+Drow Ranger,agi,Ranged,1,0,1,0,1,0,0,0,2
+Earthshaker,str,Melee,0,0,0,1,1,1,0,1,2
+Juggernaut,agi,Melee,1,0,1,0,0,0,0,0,2
+Mirana,agi,Ranged,1,0,0,1,1,0,0,1,2
+Morphling,agi,Ranged,1,0,0,1,1,0,1,0,0
+Shadow Fiend,agi,Ranged,1,0,0,1,0,0,0,0,0
+Phantom Lancer,agi,Melee,1,0,1,1,0,0,0,0,2
+Puck,int,Ranged,0,0,0,1,1,1,0,0,2
+Pudge,str,Melee,0,0,0,1,1,1,1,0,2
+Razor,agi,Ranged,1,0,1,1,0,0,1,0,0
+Sand King,str,Melee,0,1,0,1,1,1,0,0,6
+Storm Spirit,int,Ranged,1,0,0,1,1,1,0,0,2
+Sven,str,Melee,1,0,0,1,1,1,1,0,2
+Tiny,str,Melee,1,0,1,1,1,1,1,0,2
+Vengeful Spirit,agi,Ranged,0,0,0,1,1,1,0,1,2
+Windranger,int,Ranged,1,0,0,1,1,0,0,1,2
+Zeus,int,Ranged,0,0,0,1,0,0,0,0,2
+Kunkka,str,Melee,1,0,0,1,1,1,1,0,2
+Lina,int,Ranged,1,0,0,1,1,0,0,1,2
+Lion,int,Ranged,0,0,0,1,1,1,0,1,2
+Shadow Shaman,int,Ranged,0,0,1,1,1,1,0,1,2
+Slardar,str,Melee,1,0,0,0,1,1,1,0,0
+Tidehunter,str,Melee,0,0,0,1,1,1,1,0,2
+Witch Doctor,int,Ranged,0,0,0,1,1,0,0,1,2
+Lich,int,Ranged,0,0,0,1,0,0,0,1,2
+Riki,agi,Melee,1,0,0,0,1,0,0,0,2
+Enigma,int,Ranged,0,1,1,0,1,1,0,0,0
+Tinker,int,Ranged,1,0,1,1,0,0,0,0,2
+Sniper,agi,Ranged,1,0,0,1,0,0,0,0,2
+Necrophos,int,Ranged,1,0,0,1,1,0,1,0,2
+Warlock,int,Ranged,0,0,0,0,1,1,0,1,2
+Beastmaster,str,Melee,0,0,0,1,1,1,1,0,2
+Queen of Pain,int,Ranged,1,0,0,1,0,0,0,0,2
+Venomancer,agi,Ranged,0,0,1,1,1,1,0,1,0
+Faceless Void,agi,Melee,1,0,0,0,1,1,1,0,2
+Wraith King,str,Melee,1,0,0,0,1,1,1,1,2
+Death Prophet,int,Ranged,1,0,1,1,1,0,0,0,2
+Phantom Assassin,agi,Melee,1,0,0,0,0,0,0,0,2
+Pugna,int,Ranged,0,0,1,1,0,0,0,0,2
+Templar Assassin,agi,Ranged,1,0,0,0,0,0,0,0,2
+Viper,agi,Ranged,1,0,0,0,1,1,1,0,0
+Luna,agi,Ranged,1,0,1,1,0,0,0,0,2
+Dragon Knight,str,Melee,1,0,1,1,1,1,1,0,2
+Dazzle,int,Ranged,0,0,0,1,1,0,0,1,2
+Clockwerk,str,Melee,0,0,0,1,1,1,1,0,2
+Leshrac,int,Ranged,1,0,1,1,1,0,0,1,4
+Nature's Prophet,int,Ranged,1,1,1,1,0,0,0,0,2
+Lifestealer,str,Melee,1,1,0,0,1,0,1,0,2
+Dark Seer,int,Melee,0,1,0,0,1,1,0,0,2
+Clinkz,agi,Ranged,1,0,1,0,0,0,0,0,2
+Omniknight,str,Melee,0,0,0,1,0,0,1,1,2
+Enchantress,int,Ranged,0,1,1,0,1,0,1,1,4
+Huskar,str,Ranged,1,0,0,0,0,1,1,0,2
+Night Stalker,str,Melee,1,0,0,1,1,1,1,0,2
+Broodmother,agi,Melee,1,0,1,1,0,0,0,0,8
+Bounty Hunter,agi,Melee,0,0,0,1,0,0,0,0,2
+Weaver,agi,Ranged,1,0,0,0,0,0,0,0,4
+Jakiro,int,Ranged,0,0,1,1,1,0,0,1,2
+Batrider,int,Ranged,0,1,0,0,1,1,0,0,2
+Chen,int,Ranged,0,1,1,0,0,0,0,1,2
+Spectre,agi,Melee,1,0,0,0,0,0,1,0,0
+Ancient Apparition,int,Ranged,0,0,0,1,1,0,0,1,2
+Doom,str,Melee,1,0,0,1,1,1,1,0,2
+Ursa,agi,Melee,1,1,0,0,1,0,1,0,2
+Spirit Breaker,str,Melee,1,0,0,0,1,1,1,0,2
+Gyrocopter,agi,Ranged,1,0,0,1,1,0,0,0,2
+Alchemist,str,Melee,1,0,0,1,1,1,1,1,2
+Invoker,int,Ranged,1,0,1,1,1,0,0,0,2
+Silencer,int,Ranged,1,0,0,1,1,1,0,1,2
+Outworld Devourer,int,Ranged,1,0,0,1,1,0,0,0,4
+Lycan,str,Melee,1,1,1,0,0,0,1,0,2
+Brewmaster,str,Melee,1,0,0,1,1,1,1,0,2
+Shadow Demon,int,Ranged,0,0,0,1,1,1,0,1,2
+Lone Druid,agi,Ranged,1,1,1,0,0,0,1,0,2
+Chaos Knight,str,Melee,1,0,1,0,1,1,1,0,2
+Meepo,agi,Melee,1,0,1,1,1,1,0,0,2
+Treant Protector,str,Melee,0,0,0,0,1,1,1,1,2
+Ogre Magi,int,Melee,0,0,0,1,1,1,1,1,2
+Undying,str,Melee,0,0,0,1,1,0,1,1,2
+Rubick,int,Ranged,0,0,0,1,1,0,0,1,2
+Disruptor,int,Ranged,0,0,0,1,1,1,0,1,2
+Nyx Assassin,agi,Melee,0,0,0,1,1,1,0,0,6
+Naga Siren,agi,Melee,1,0,1,0,1,1,0,1,0
+Keeper of the Light,int,Ranged,0,1,0,1,1,0,0,1,2
+Io,str,Ranged,0,0,0,1,0,0,0,1,0
+Visage,int,Ranged,0,0,1,1,1,0,1,1,2
+Slark,agi,Melee,1,0,0,1,1,0,0,0,2
+Medusa,agi,Ranged,1,0,0,0,1,0,1,0,0
+Troll Warlord,agi,Ranged,1,0,1,0,1,0,1,0,2
+Centaur Warrunner,str,Melee,0,0,0,1,1,1,1,0,4
+Magnus,str,Melee,0,0,0,1,1,1,0,0,4
+Timbersaw,str,Melee,0,0,0,1,0,0,1,0,2
+Bristleback,str,Melee,1,0,0,1,0,1,1,0,2
+Tusk,str,Melee,0,0,0,1,1,1,0,0,2
+Skywrath Mage,int,Ranged,0,0,0,1,1,0,0,1,2
+Abaddon,str,Melee,1,0,0,0,0,0,1,1,2
+Elder Titan,str,Melee,0,0,0,1,1,1,1,0,2
+Legion Commander,str,Melee,1,0,0,1,1,1,1,0,2
+Techies,int,Ranged,0,0,0,1,1,0,0,0,6
+Ember Spirit,agi,Melee,1,0,0,1,1,1,0,0,2
+Earth Spirit,str,Melee,0,0,0,1,1,1,1,0,2
+Underlord,str,Melee,0,0,0,1,1,0,1,1,2
+Terrorblade,agi,Melee,1,0,1,1,0,0,0,0,2
+Phoenix,str,Ranged,0,0,0,1,1,1,0,1,2
+Oracle,int,Ranged,0,0,0,1,1,0,0,1,2
+Winter Wyvern,int,Ranged,0,0,0,1,1,0,0,1,2
+Arc Warden,agi,Ranged,1,0,0,1,0,0,0,0,2
+Monkey King,agi,Melee,1,0,0,0,1,1,0,0,2
