@@ -4,6 +4,8 @@
 
 ## Introduction
 
+[Jupyter Nbviewer Version](https://nbviewer.jupyter.org/github/billwarker/opendota-analysis/blob/master/A%20Statistical%20Look%20Back%20on%20my%20Dota%202%20Career.ipynb)
+
 ### A Brief History of DotA
 
 Have you ever been addicted? Smoking? Sex? Gambling? Hard drugs? While other folks were out pursuing these exciting vices during their youth, I was staying inside playing DotA.
