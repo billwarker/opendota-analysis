@@ -4,6 +4,8 @@
 
 ## Introduction
 
+[Jupyter Nbviewer Version](https://nbviewer.jupyter.org/github/billwarker/opendota-analysis/blob/master/A%20Statistical%20Look%20Back%20on%20my%20Dota%202%20Career.ipynb)
+
 ### A Brief History of DotA
 
 Have you ever been addicted? Smoking? Sex? Gambling? Hard drugs? While other folks were out pursuing these exciting vices during their youth, I was staying inside playing DotA.
@@ -24,8 +26,8 @@ For most of this analysis I'm going to examine the relationship between match re
 
 For readers who aren't familiar with DotA, [here's a short video that'll give you the gist of what the game is about](https://www.youtube.com/watch?v=Cp8neRiF9-k). To get the most out of this analysis I'm going to go into a moderate amount of detail about gameplay mechanics and general strategy, but I'll explain these things as I go along.
 
-Personally, going the history of my Dota 2 career serves as the necessary closure to let go of the game for good. It's a love-hate kind of thing; the lows were so low, but the highs were so high. It'll be fun taking a trip down memory lane, even if all the memories weren't that great.
+Personally, going through the history of my Dota 2 career serves as the necessary closure to let go of the game for good. It's a love-hate kind of thing; the lows were so low, but the highs were so high. It'll be fun taking a trip down memory lane, even if all the memories weren't that great.
 
 ### The Data
 
-All of my match data was sourced from [OpenDota](https://www.opendota.com/), an open-source data platform that grabs its data directly from Steam. OpenDota provides a great [API](https://docs.opendota.com/) for developers to build their own applications with. The data I'll be working with comes from two GET requests to the API; one for my match data, and one for general hero data. I loaded this data into a MySQL database and exported it into two CSV files - one with my match data joined with hero data, and the hero data on its own - which I'll work with using Python's Pandas module. The code and CSVs I used for all of this can be found [here](https://github.com/billwarker/opendota-analysis).
+All of my match data was sourced from [OpenDota](https://www.opendota.com/), an open-source data platform that grabs its data directly from Steam. OpenDota provides a great [API](https://docs.opendota.com/) for developers to build their own applications with. The data I'll be working with comes from two GET requests to the API; one for my match data, and one for general hero data. I loaded this data into a MySQL database and exported it into two CSV files - one with my match data joined with hero data and one with the hero data on its own - which I'll work with using Python's Pandas module. The code and CSVs I used for all of this can be found [here](https://github.com/billwarker/opendota-analysis).
